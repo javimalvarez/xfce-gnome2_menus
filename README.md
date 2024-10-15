@@ -13,6 +13,10 @@ system.menu brings back the Gnome 2 system menu
 
 xpple.menu brings to XFCE a similar mac´s menu
 
+![IMG_20241015_181535](https://github.com/user-attachments/assets/894f9be6-54b5-4445-ab90-b837b9a1d5a2)
+
 You simply have to add to XFCE panel applications menu widget and apply custom configuration file that you want to widget
 
 ![Captura de pantalla_2024-10-15_17-41-15](https://github.com/user-attachments/assets/6b7b7578-09f8-4ef5-b2a8-51131bcb2424)
+
+Note: places menu it has been used XFCE places widget
